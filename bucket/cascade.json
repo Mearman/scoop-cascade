@@ -1,12 +1,12 @@
 {
-    "version": "0.1.101",
+    "version": "0.1.102",
     "description": "Cross-platform cloud storage filesystem client",
     "homepage": "https://github.com/Mearman/cascade",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Mearman/cascade/releases/download/cascade-v0.1.101/cascade-x86_64-windows.zip",
-            "hash": "a2e85ccb9ec32db0c34480ec2eedf84778ec0d7f8019abfb31138d26d5cc3896"
+            "url": "https://github.com/Mearman/cascade/releases/download/cascade-v0.1.102/cascade-x86_64-windows.zip",
+            "hash": "8de30bb16fa3214d0edad7774904296b5a08d937cd06f2edc01b9a4e8e517962"
         }
     },
     "bin": "cascade.exe",
